@@ -4,7 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/.env
+/yarn.lock
+/typesense-server-data
 # testing
 /coverage
 
